@@ -35,5 +35,5 @@ public class MainActivity extends Activity
 		tintManager.setStatusBarTintEnabled(true);
 		tintManager.setStatusBarTintResource(0);//״̬���ޱ���
 	}
-	System.out.print();
+	System.out.print(123);
 }
